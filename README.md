@@ -9,4 +9,4 @@ We have developed a regression model aiming to predict the prices of used cars i
 You can find the dataset [here.](https://www.kaggle.com/avikasliwal/used-cars-price-prediction)
 If you want to embed images, this is how you do it:
 
-![Used Car](https://unsplash.com/photos/N7RiDzfF2iw)
+![Used Car](https://images.unsplash.com/photo-1489824904134-891ab64532f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60)
