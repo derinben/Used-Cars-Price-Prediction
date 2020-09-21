@@ -4,8 +4,9 @@ Ever heard of the terminologies like used car, a pre-owned vehicle or a second h
 
 Used cars are sold through a variety of outlets, including franchise, independent car dealers and rental car companies.Have you ever wondered how their prices are evaluated for sale?
 
-You cannot take a wild guess at this because the Indian used car market was valued at USD 24.24 billion in 2019.
-We have developed a regression model aiming to predict the prices of used cars in India using the attributes from the dataset.
+You cannot take a wild guess at this because the Indian used car market was valued at **USD 24.24 billion** in 2019.
+We have developed a regression model aiming to predict the prices of used cars in India using the attributes from the dataset and achieved an accuracy of *90%*. <br>
+
 You can find the dataset [here.](https://www.kaggle.com/avikasliwal/used-cars-price-prediction)
 
 <br>
